@@ -20,11 +20,6 @@
 
 <img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100"><img src="./files/javascript.svg" width="100">
 
-# :package: Recursos
-
-### Document Object Model (DOM):
-<img src="./files/dom.gif" width="60%">
-
 # :art: Layout PC
 
 <img src="./files/pc-resume.jpg" alt="" width="100%">
