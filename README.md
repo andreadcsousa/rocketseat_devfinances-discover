@@ -22,8 +22,8 @@
 
 # :package: Recursos
 
-### Scroll Reveal
-<img src="./files/scroll.svg" width="100">
+### Document Object Model (DOM):
+<img src="./files/dom.gif" width="60%">
 
 # :art: Layout PC
 
