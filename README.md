@@ -31,4 +31,4 @@
 
 # :iphone: Layout Mobile
 
-<img src="./files/menu.jpg" alt="" width="32%"> <img src="./files/destaque.jpg" alt="" width="32%">
+<img src="./files/mobile-resume.jpg" alt="" width="32%"> <img src="./files/mobile-modal.jpg" alt="" width="32%">
