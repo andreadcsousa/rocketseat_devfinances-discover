@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  :white_check_mark: <a href="https://andreadcsousa.github.io/rocketseat_nlw8_origin/" target="_blank">Veja a página</a>
+  :white_check_mark: <a href="https://andreadcsousa.github.io/rocketseat_devfinances-discover/" target="_blank">Veja a página</a>
  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   :white_check_mark: <a href="https://rocketseat.com.br/" target="_blank">Conheça a Rocketseat</a>
 </p>
@@ -11,7 +11,7 @@
 # :computer: Projeto
  
 - Idealizador: Rocketseat
-- Projeto: Dev Finance
+- Projeto: dev.finance$
 - Lado da força: Front-End
 - Tipo: Desafios Discover
 - Etapa: Desafio DevFinance
